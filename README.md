@@ -2,7 +2,7 @@
 
 ### [Live Site](https://brave-einstein-98e899.netlify.app)
 
-![Chat Application](https://ibb.co/MPX2w8c)
+![Chat Application](https://pasteboard.co/JVD0xZ2.png)
 
 ## Introduction
 This is a code repository for Realtime Chat Application.
